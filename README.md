@@ -2,7 +2,7 @@
 
 Deploy production ready [offen.dev](https://offen.dev) instance using [railway.app](https://railway.app) with PostgreSQL for free and build with it in 30seconds.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Xd0y9_?referralCode=he1cNR)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Xd0y9_?referralCode=myrame)
 
 ## ✨ Features
 
